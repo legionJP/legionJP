@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @legionJP
+- 👋 Hi, I’m JP PAL
 - 👀 I’m interested in Artificial Intelligence , Machine Learning,App Development..
 - 🌱 I’m currently learning A.I. M.L. & Programming..
 - 💞️ I’m looking to collaborate on ...
