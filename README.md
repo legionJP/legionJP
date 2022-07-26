@@ -1,8 +1,7 @@
 - 👋 Hi, I’m JP PAL
-- 👀 I’m interested in Artificial Intelligence , Machine Learning,App Development..
-- 🌱 I’m currently learning A.I. M.L. & Programming..
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Back end Development technologies
+- 💞️ I’m looking to collaborate on Web App Development
+- 📫 contact : jjpsingh18@gmail.com
 
 <!---
 legionJP/legionJP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
