@@ -1,6 +1,6 @@
 - 👋 Hi, I’m JP PAL
 - 🌱 I’m currently learning Backend Development.
-- 💞️ I’m looking to collaborate on software development as a python dev.
+- 💞️ I’m looking to collaborate on software development as a Python dev.
 - 📫 contact : jjpsingh18@gmail.com
 
 <!---
