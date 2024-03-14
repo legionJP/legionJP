@@ -1,4 +1,5 @@
-- 👋 Hi, I’m JP PAL
+- <h3  align = "left" 👋 Hi, I’m JP PAL </h3>
+- <h3 align="left">Connect with me: jjpsingh18@gmail.com </h3>
  
 <!---
 legionJP/legionJP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,7 +10,6 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legionjp" alt="legionjp" /></a> </p>
 
-<h3 align="left">Connect with me: jjpsingh18@gmail.com </h3>
 <p align="left">
 </p>
 
