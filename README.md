@@ -1,4 +1,4 @@
-- <h3  align = "left" 👋 Hi, I’m JP PAL </h3>
+- <h3 align ="left">👋 Hi, I’m JP PAL </h3>
 - <h3 align="left">Connect with me: jjpsingh18@gmail.com </h3>
  
 <!---
