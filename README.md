@@ -1,5 +1,4 @@
 - 👋 Hi, I’m JP PAL
-- 🌱 learning and Developing  full-stack development.
  
 <!---
 legionJP/legionJP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legionjp" alt="legionjp" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: jjpsingh18@gmail.com </h3>
 <p align="left">
 </p>
 
