@@ -10,10 +10,6 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 </p>
 
-
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legionJP&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legionJP&theme=aura) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legionJP&theme=aura)
-
-
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legionJP&theme=aura" alt="Profile Details Card">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legionJP&theme=aura" alt="Stats Card">
