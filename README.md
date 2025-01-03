@@ -19,11 +19,9 @@ You can click the Preview link to take a look at your changes.
 <!--- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=legionJP&theme=aura&utcOffset=8) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legionJP&theme=aura) 
 --->
-
-<p align="center">
   
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=legionJP&theme=default&hide_border=true)
-</p>
+
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=legionJP&" alt="jp" />
 </p> -->
