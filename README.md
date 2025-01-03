@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legionJP&theme=aura) 
 --->
 
-  https://github-readme-stats.vercel.app/api?username=lrgionJP&theme=default&show_icons=true&hide_border=true&count_private=true
+[](https://github-readme-stats.vercel.app/api?username=lrgionJP&theme=default&show_icons=true&hide_border=true&count_private=true)
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=legionJP&" alt="jp" />
