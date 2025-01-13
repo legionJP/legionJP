@@ -10,7 +10,8 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 </p>
 
-<div align="center"
+<div align="center">
+ 
 [![JP's GitHub | Stats](https://stats.quira.sh/JP/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JP)
 </div>
 
