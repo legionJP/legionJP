@@ -11,8 +11,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 [![JP's GitHub | Stats](https://stats.quira.sh/JP/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JP)
-[![JP's GitHub | Stats](https://stats.quira.sh/JP/github?theme=dark)](https://quine.sh/?utm_source=widgets&utm_campaign=JP)
-
+[![JP's GitHub | Topics Over Time](https://stats.quira.sh/JP/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JP)
 <!--- [![JP's GitHub | Languages Over Time](https://stats.quira.sh/JP/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JP)---> 
 
 
