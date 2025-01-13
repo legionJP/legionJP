@@ -9,9 +9,9 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legionjp" alt="legionjp" /></a> </p>
 <p align="left">
 </p>
-
+[![JP's GitHub | Stats](https://stats.quira.sh/JP/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JP)
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legionJP&theme=aura" alt="Profile Details Card">
+ <!--- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legionJP&theme=aura" alt="Profile Details Card"> --->
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legionJP&theme=aura" alt="Stats Card">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legionJP&theme=aura" alt="Most Commit Language Card">
 </div>
