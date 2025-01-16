@@ -30,11 +30,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=legionJP&theme=dark&hide_border=true"
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=legionJP&theme=dark&hide_border=true"/>
 </p> 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legionJP&" alt="jp" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legionJP&" alt="jp"/>
 </p> 
 
 
