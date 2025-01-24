@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 <!--- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=legionJP&theme=aura&utcOffset=8) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=legionJP&theme=aura) 
 --->
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=legionJP)](https://git.io/streak-stats)
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=legionJP&theme=dark&hide_border=true"/>
