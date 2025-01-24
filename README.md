@@ -30,6 +30,9 @@ You can click the Preview link to take a look at your changes.
 --->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=legionJP)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user={legionJP}&theme=dark)](https://git.io/streak-stats)
+
+
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=legionJP&theme=dark&hide_border=true"/>
 </p> 
