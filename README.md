@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legionjp" alt="legionjp" /></a> </p>
-<p align="left">
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legionjp" alt="legionjp" /></a> </p>
+<p align="center">
 </p>
 
 
@@ -19,6 +19,9 @@ You can click the Preview link to take a look at your changes.
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legionJP&theme=aura" alt="Stats Card">  -->
  
   [![JP's GitHub | Stats](https://stats.quira.sh/JP/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JP)
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=legionJP&theme=dark&hide_border=true"/>
+
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legionJP&theme=aura" alt="Most Commit Language Card">
 </div>
 
@@ -31,7 +34,6 @@ You can click the Preview link to take a look at your changes.
 <!--- [![GitHub Streak](https://streak-stats.demolab.com/?user={legionJP}&theme=dark)](https://git.io/streak-stats) --->
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=legionJP&theme=dark&hide_border=true"/>
 </p> 
 
 <h3 align="left">Languages and Tools:</h3>
