@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
   [![JP's GitHub | Stats](https://stats.quira.sh/JP/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=JP)
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=legionJP&theme=dark&hide_border=true"/>
-
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legionJP&theme=aura" alt="Most Commit Language Card">
 </div>
 
