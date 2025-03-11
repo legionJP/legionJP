@@ -1,7 +1,5 @@
 ###
-- <h3 align ="left">👋 Hi, I’m JP PAL </h3>
-
-<h3 align="left">A passionate Software developer from India</h3>
+<h3 align ="left">👋 Hi, I’m JP PAL </h3>
 
 ###
 
