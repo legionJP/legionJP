@@ -1,4 +1,4 @@
-<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=legionJP.legionJP&" /></p>
+- <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=legionJP.legionJP&" /></p>
 
 ###
 <div align="center">
