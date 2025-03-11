@@ -4,7 +4,7 @@
 
 ###
 
-<h4 align ="left">👋 Hi, I’m JP PAL </h4>
+- <h4 align ="left">👋 Hi, I’m JP PAL </h4>
 
 <p align="left">Talk me about Python, Java, Cloud, REST APIs, Linux, Cybersecurity <br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning CyberSec<br>- ⚡ In my free time I read Articles and Blogs</p>
 
@@ -23,7 +23,7 @@
 </div>
 
 ###
-<h3 align="left">My GitHub Trophies</h3>
+<h3 align="left">Trophies</h3>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legionjp" alt="legionjp" /></a> </p>
 
 ###
