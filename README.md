@@ -95,18 +95,14 @@
 </div>
 ###
 
-
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=legionJP&theme=aura" alt="Most Commit Language Card">
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=legionJP&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+ <img src="https://streak-stats.demolab.com?user=legionJP&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
  <!--- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legionJP&theme=aura" alt="Profile Details Card"> --->
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legionJP&theme=aura" alt="Stats Card">  -->
-
 
 ###
 <div align="center">
@@ -119,14 +115,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
