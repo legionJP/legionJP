@@ -1,10 +1,4 @@
-- <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=legionJP.legionJP&" /></p>
-
-###
-<div align="center">
-</div>
-
-###
+<p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=legionJP.legionJP&" /></p>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
