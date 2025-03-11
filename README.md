@@ -1,8 +1,7 @@
 ###
 <br clear="both">
 <p align="right">Visitor No. <img src="https://profile-counter.glitch.me/legionJP/count.svg?"  /></p>
-
-
+###
 <h3 align="left">👩‍💻 About Me</h3>
 
 ###
