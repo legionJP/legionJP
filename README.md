@@ -1,4 +1,10 @@
 ###
+<br clear="both">
+
+<div align="left">
+  <h5> Visitor No.</h5>
+  <img src="https://profile-counter.glitch.me/legionJP/count.svg?"  />
+</div>
 
 <h3 align="left">👩‍💻 About Me</h3>
 
@@ -27,11 +33,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/legionJP/count.svg?"  />
-</div>
 
 <h3 align="left">🛠 Language and tools</h3>
 
