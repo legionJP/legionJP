@@ -114,8 +114,4 @@
 </div>
 ###
 
-###
-
 <img src="https://raw.githubusercontent.com/legionJP/legionJP/output/snake.svg" alt="Snake animation" />
-
-
