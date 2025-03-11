@@ -1,6 +1,16 @@
+###
 - <h3 align ="left">👋 Hi, I’m JP PAL </h3>
 
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="left">A passionate Software developer from India</h3>
+
+###
+
+<h3 align="left">👩‍💻 About Me</h3>
+
+###
+<p align="left">I'm Passionate Software Developer from India<br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning CyberSec<br>- ⚡ In my free time I read Articles and Blogs</p>
+
+###
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legionjp" alt="legionjp" /></a> </p>
 <p align="center">
@@ -35,20 +45,6 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/legionJP/count.svg?"  />
 </div>
-
-###
-
-<h5 align="left">hey there 👋</h5>
-
-###
-
-<h3 align="left">👩‍💻 About Me</h3>
-
-###
-
-<p align="left">I'm Passionate Software Developer from India<br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning CyberSec<br>- ⚡ In my free time I read Articles and Blogs</p>
-
-###
 
 <h3 align="left">🛠 Language and tools</h3>
 
