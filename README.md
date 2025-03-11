@@ -11,11 +11,10 @@
 ###
 
 ###
-<h3 align="left"> Connect With Me</h3>
+<h3 align="left"> Connect with Me</h3>
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/legionJP" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
 </a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
@@ -96,8 +95,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
+
 ###
 
+###
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="center">
@@ -117,5 +118,4 @@
 
 <img src="https://raw.githubusercontent.com/legionJP/legionJP/output/snake.svg" alt="Snake animation" />
 
-###
 
