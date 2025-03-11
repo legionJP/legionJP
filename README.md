@@ -1,4 +1,3 @@
-<br clear="both">
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=legionJP.legionJP&" /></p>
 
 ###
@@ -12,7 +11,7 @@
 ###
 <h4 align ="left">👋 Hi, I’m JP PAL </h4>
 
-- <p align="left">Talk me about Python, Java, Cloud, REST APIs, Linux, Cybersecurity <br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning CyberSec<br>- ⚡ In my free time I read Articles and Blogs</p>
+- <p align="left">Enthusiast and practitioner of Python, Java, Cloud Computing, REST APIs, Linux, and Cybersecurity <br><br>- 🔭 I’m working as Backend Developer<br>- 📚 I'm currently learning CyberSec<br>- ⚡ In my free time I read Articles and Blogs</p>
 
 ###
 
@@ -107,4 +106,5 @@
 
  <!--- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legionJP&theme=aura" alt="Profile Details Card"> --->
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legionJP&theme=aura" alt="Stats Card">  -->
+<br clear="both">
 <img src="https://raw.githubusercontent.com/legionJP/legionJP/output/snake.svg" alt="Snake animation" />
