@@ -100,4 +100,4 @@
 
  <!--- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=legionJP&theme=aura" alt="Profile Details Card"> --->
 <!--   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=legionJP&theme=aura" alt="Stats Card">  -->
-<img src="https://raw.githubusercontent.com/legionJP/legionJP/output/snake.svg" alt="Snake animation" />
+<!--- <img src="https://raw.githubusercontent.com/legionJP/legionJP/output/snake.svg" alt="Snake animation" /> --->
