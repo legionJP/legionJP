@@ -1,6 +1,6 @@
 <p align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=legionJP.legionJP&" /></p>
 
-<h3 align="left">👩‍💻 About Me</h3>
+<h3 align="left">👨‍💻 About Me</h3>
 
 ###
 <h4 align ="left">👋 Hi, I’m JP PAL </h4>
