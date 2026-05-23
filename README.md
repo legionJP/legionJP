@@ -5,7 +5,7 @@
 ###
 <h4 align ="left">👋 Hi, I’m JP PAL </h4>
 
-- <p align="left">Enthusiast and practitioner of Python, Java, Cloud Computing, REST APIs, Linux, and Cybersecurity <br><br>- 🔭 Backend Dev. enthusiastic<br>- 📚 Currently learning CyberSec<br>- ⚡ In my free time I read Articles and Blogs</p>
+- <p align="left">Enthusiast and practitioner of Python, Java, Cloud Computing, REST APIs, Linux, and Cybersecurity <br><br>- 🔭 Backend Dev. enthusiastic<br>- 📚 CyberSec<br>- </p>
 
 ###
 
